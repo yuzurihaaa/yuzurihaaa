@@ -31,14 +31,10 @@
 <img src=https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
 <h2> My (Not so active) Contribution </h2>
-<a href="https://github.com/zaralockheart/github-readme-stats" target="_blank">
+<a href="https://github.com/zaralockheart/zaralockheart" target="_blank">
 <img src=https://github-readme-stats.vercel.app/api?username=zaralockheart alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-<h2> My (Not so active) Contribution </h2>
-<a href="https://github.com/zaralockheart/github-readme-stats" target="_blank">
-<img src=https://github-readme-stats.vercel.app/api?username=zaralockheart alt=twitter style="margin-bottom: 5px;" />
-</a>
 <br/>
 <a href="https://github.com/zaralockheart/zaralockheart" target="_blank">
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=zaralockheart&layout=compact alt=twitter style="margin-bottom: 5px;" />
