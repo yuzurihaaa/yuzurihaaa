@@ -31,13 +31,13 @@
 <img src=https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
 <h2> My (Not so active) Contribution </h2>
-<a href="https://github.com/zaralockheart/zaralockheart" target="_blank">
-<img src=https://github-readme-stats.vercel.app/api?username=zaralockheart alt=twitter style="margin-bottom: 5px;" />
+<a href="https://github.com/yuzurihaaa/yuzurihaaa" target="_blank">
+<img src=https://github-readme-stats.vercel.app/api?username=yuzurihaaa alt=twitter style="margin-bottom: 5px;" />
 </a>
 
 <br/>
-<a href="https://github.com/zaralockheart/zaralockheart" target="_blank">
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=zaralockheart&layout=compact alt=twitter style="margin-bottom: 5px;" />
+<a href="https://github.com/yuzurihaaa/yuzurihaaa" target="_blank">
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=yuzurihaaa&layout=compact alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>
 
@@ -47,7 +47,7 @@
 
 
 <!--
-**zaralockheart/zaralockheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yuzurihaaa/yuzurihaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
