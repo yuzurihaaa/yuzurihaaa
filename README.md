@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile! </h2>
 <a href="https://stackoverflow.com/users/7676003/yuzuriha">
-  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/7676003?theme=dark&website=true&location=true" alt="user:7676003's SO profile">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/7676003?theme=dark&website=true&location=true&v2=true" alt="user:7676003's SO profile">
 </a>
 </br>
 <a href="https://www.linkedin.com/in/%F0%9F%90%A5-yusuf-rosman-9822aa12a/" target="_blank">
